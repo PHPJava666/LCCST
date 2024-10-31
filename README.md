@@ -38,16 +38,12 @@ Data could be got at [Pancreas](https://wiki.cancerimagingarchive.net/display/Pu
 
 To train a model,
 ```
-python ./code/pancreas/Pancreas_train.py  #for Pancreas training
 python ./code/LA_train.py  #for LA training
-python ./code/ACDC_train.py  #for ACDC training
 ``` 
 
 To test a model,
 ```
-python ./code/pancreas/test_Pancreas.py  #for Pancreas testing
 python ./code/test_LA.py  #for LA testing
-python ./code/test_ACDC.py  #for ACDC testing
 ```
 
 ## Acknowledgements
