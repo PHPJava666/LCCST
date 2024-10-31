@@ -1,6 +1,3 @@
-#整合这两个train_interpolation_consistency_training_3D.py和train_regularized_dropout_3D.py并且把make_query_S1_S2_CISR-R.py的内容加上去
-#整合这两个train_interpolation_consistency_training_3D.py和train_regularized_dropout_3D.py并且把make_query_S1_S2_CISR-R.py的内容加上去
-#整合这两个train_interpolation_consistency_training_3D.py和train_regularized_dropout_3D.py并且把make_query_S1_S2_CISR-R.py的内容加上去
 
 import os
 import sys
