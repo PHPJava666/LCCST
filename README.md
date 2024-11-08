@@ -1,4 +1,4 @@
-# LCCST: Loosely Coupled Closed-loop Student Teacher Model for Semi-supervised Medical Image Segmentation
+# LCCST
 
 #### [Yajun Liu], [Zenghui Zhang], [Jiang Yue], [Dongying Li], [Wenxian Yu]
 
@@ -17,7 +17,7 @@ Pytorch implementation of our paper: "LCCST: Loosely Coupled Closed-loop Student
 
 
 ## Introduction
-Official code for "LCCST: Loosely Coupled Closed-loop Student Teacher Model for Semi-supervised Medical Image Segmentation".
+Official code for "LCCST".
 
 
 ## Requirements
