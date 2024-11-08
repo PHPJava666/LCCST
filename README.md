@@ -4,7 +4,7 @@
 
 
 
-Pytorch implementation of our paper: "LCCST: Loosely Coupled Closed-loop Student Teacher Model for Semi-supervised Medical Image Segmentation".
+Pytorch implementation of our paper: "LCCST: ".
 ## Contents
 - [Abstract](##Abstract)
 - [Introduction](##Introduction)
